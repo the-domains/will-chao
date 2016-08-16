@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Will Chao]]></title>
+        <description><![CDATA[Will Chao]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Aug 2016 05:28:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Food & Beer (Pre-order) | Food & Cookery | Phaidon Store]]></title>
+            <description><![CDATA[<article><h1>Food & Beer (Pre-order) | Food & Cookery | Phaidon Store</h1><p>The debut book by Danish gypsy brewer Jeppe Jarnit-Bjergsø of the bar Tørst, and Canadian chef Daniel Burns of the Michelin-starred restaurant Luksus-both in a shared space in Greenpoint, Brooklyn where they elevate beer to the level of wine in fine dining.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31575c7cfa1e804906592cd13d57025c9b5bcd4a.jpg"></article>]]></description>
+            <link>http://www.phaidon.com/store/food-cook/food-and-beer-9780714871059/</link>
+            <guid isPermaLink="false">3103bce3-63bd-449e-9cff-4a1a18ce545b</guid>
+            <pubDate>Tue, 16 Aug 2016 05:28:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
