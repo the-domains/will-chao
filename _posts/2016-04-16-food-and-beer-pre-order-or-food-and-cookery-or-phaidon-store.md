@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T05:28:02.275Z'
+datePublished: '2016-08-16T05:30:47.505Z'
 sourcePath: >-
   _posts/2016-04-16-food-and-beer-pre-order-or-food-and-cookery-or-phaidon-store.md
 inFeed: true
@@ -18,7 +18,7 @@ keywords:
   - noma
 related: []
 author: []
-dateModified: '2016-08-16T05:28:01.111Z'
+dateModified: '2016-08-16T05:30:47.352Z'
 title: Food & Beer (Pre-order) | Food & Cookery | Phaidon Store
 app_links: []
 publisher:
